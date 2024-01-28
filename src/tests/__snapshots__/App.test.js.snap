@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component testing Snapshop testing for App component 1`] = `
+<div
+  className="login template d-flex justify-content-center align-items-center vh-100 bg-dark-subtle "
+>
+  <div
+    className="form_container 50-w p-5 rounded bg-white"
+  >
+    <form>
+      <h2
+        className="text-center mb-4"
+      >
+        User SignIn
+      </h2>
+      <div
+        className="mb-2"
+      >
+        <label
+          htmlFor="email"
+        >
+          Email
+        </label>
+        <input
+          className="form-control"
+          id="em"
+          name="email"
+          onChange={[Function]}
+          placeholder="Enter email"
+          type="email"
+        />
+      </div>
+      <div
+        className="mb-4"
+      >
+        <label
+          htmlFor="password"
+        >
+          Password
+        </label>
+        <input
+          className="form-control"
+          id="pw"
+          name="password"
+          onChange={[Function]}
+          placeholder="Enter password"
+          type="password"
+        />
+      </div>
+      <div
+        className="d-grid"
+      >
+        <button
+          className="btn btn-primary btn-block"
+          onClick={[Function]}
+          type="submit"
+        >
+          Sign In
+        </button>
+      </div>
+      <p
+        className="text-end mt-2"
+      >
+        Forgot 
+        <a
+          href=""
+        >
+          Password?
+        </a>
+         
+        <a
+          className="ms-2"
+          href="/signup"
+          onClick={[Function]}
+        >
+          Sign Up
+        </a>
+         
+      </p>
+    </form>
+  </div>
+</div>
+`;

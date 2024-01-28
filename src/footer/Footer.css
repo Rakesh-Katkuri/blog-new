@@ -1,0 +1,23 @@
+.text{
+    font-weight: 600;
+}
+
+.item{
+    text-decoration: none;
+    color: aliceblue;
+    
+    
+}
+.custom{
+    line-height: 40px;
+}
+.custom-input{
+    font-size: 18px;
+    padding: 8px;
+    border: 1px solid black;
+}
+.custom-button{
+    background-color: rgb(152, 108, 67);
+    border: none;
+    padding: 8px;
+}
