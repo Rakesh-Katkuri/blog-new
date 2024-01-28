@@ -1,0 +1,618 @@
+imageurl
+https://w0.peakpx.com/wallpaper/32/729/HD-wallpaper-boat-oar-coast-lake-nature.jpg
+
+https://natureinmind.ie/wp-content/uploads/2016/12/16-12-23-Tree-Stephens-Green-600x400.jpg
+
+A sinking, uncomfortable feeling that I know all too well. It is the same feeling that comes on Sunday evenings as another week in the office beckons. The same feeling that comes when the long awaited annual two week holiday is almost over. I remember the exact same feeling a few years ago when I was travelling – I was sitting in a small coffee shop in Bali when I realised that I had passed the half way point of my trip. It hit me hard then. The party would soon be over. The glass was now more empty than full.
+
+This feeling has been with me in one way or another for most of my adult life. Now, as I sit in my favourite place under this old tree I can feel it again. The days are getting shorter and colder. Soon the trees will be bare. I can’t quite put my finger on it but it feels like the sands of time are running out. There is a hollow feeling in my chest.
+
+For years, I would go to great lengths to avoid this feeling. I would busy myself with some mundane task. I would exercise, work, read, meet my friends, text someone… anyone, open a bottle of wine, watch another box set, go for a pint, even meditate or practice yoga. Anything to anesthetise myself and escape this feeling.
+
+No matter what I did the feeling never really went away. It’s always there. I don’t think I’m alone. I think most of us spend our whole lives running from it in one way or another.
+
+
+https://natureinmind.ie/wp-content/uploads/2016/12/3-600x400.jpg
+
+“Nature is not a place to visit. It is home.”
+
+– Gary Snyder
+
+In a very real sense, mountains and valleys, the seas and the skies, the sun and the earth, the trees and the flowers constitute our home,
+our natural habitat.
+
+Growing up in the modern developed world we can easily come to believe that towns and cities – the urban and artificial environment –
+is where we naturally belong. But our brains and bodies, which evolved over thousands of years, were designed by and designed for an
+environment very different to the one we live in now.
+
+Throughout our evolutionary history we lived in very close connection to the land, 
+with a very close kinship with other creatures. 
+Our physiological system evolved to survive in wild, natural environments and developed a love and kinship 
+for these places that lives on in our DNA.
+
+This connection with the land combined with the kinship we would have felt with other 
+living things that shared the land as their home has hardwired in us a strong sense of the natural world 
+as ‘home’, and the importance of connection with all of life as being essential to our well-being.
+
+
+
+
+// test cases error src/tests/components/LoginForm.test.js
+  ● Test suite failed to run                                                           
+                                                                                       
+    Jest encountered an unexpected token                                               
+                                                                                       
+    Jest failed to parse a file. This happens e.g. when your code or its dependencies use non-standard JavaScript syntax, or when Jest is not configured to support such syntax.                                                                                     
+                                                                                       
+    Out of the box Jest supports Babel, which will be used to transform your files into valid JS based on your Babel configuration.
+
+    By default "node_modules" folder is ignored by transformers.
+
+    Here's what you can do:
+     • If you are trying to use ECMAScript Modules, see https://jestjs.io/docs/ecmascript-modules for how to enable it.
+     • If you are trying to use TypeScript, see https://jestjs.io/docs/getting-started#using-typescript
+     • To have some of your "node_modules" files transformed, you can specify a custom "transformIgnorePatterns" in your config.
+     • If you need a custom transformation specify a "transform" option in your config.
+     • If you simply want to mock your non-JS modules (e.g. binary assets) you can stub them out with the "moduleNameMapper" config option.
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://cdn-bfcmg.nitrocdn.com/EIXiyFQqcKkRAEqwTfXhKBHviZTFSQGm/assets/images/optimized/rev-9e9939c/thameswoodvets.co.uk/wp-content/uploads/2022/04/labradorfat800.jpg
+
+https://w0.peakpx.com/wallpaper/32/729/HD-wallpaper-boat-oar-coast-lake-nature.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUx1RFgw4JFOtlh8SjcG6b6c1FHL7CoGS2Q&usqp=CAU
+
+
+<div id="carouselBasicExample" class="carousel slide carousel-fade" data-mdb-ride="carousel" data-mdb-carousel-init>
+  {/* <!-- Indicators --> */}
+  <div class="carousel-indicators">
+    <button
+      type="button"
+      data-mdb-target="#carouselBasicExample"
+      data-mdb-slide-to="0"
+      class="active"
+      aria-current="true"
+      aria-label="Slide 1"
+    ></button>
+    <button
+      type="button"
+      data-mdb-target="#carouselBasicExample"
+      data-mdb-slide-to="1"
+      aria-label="Slide 2"
+    ></button>
+    <button
+      type="button"
+      data-mdb-target="#carouselBasicExample"
+      data-mdb-slide-to="2"
+      aria-label="Slide 3"
+    ></button>
+  </div>
+
+  {/* <!-- Inner --> */}
+  <div class="carousel-inner">
+    {/* <!-- Single item --> */}
+    <div class="carousel-item active">
+      <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(15).webp" class="d-block w-100" alt="Sunset Over the City"/>
+      <div class="carousel-caption d-none d-md-block">
+        <h5>First slide label</h5>
+        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      </div>
+    </div>
+
+    {/* <!-- Single item --> */}
+    <div class="carousel-item">
+      <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(22).webp" class="d-block w-100" alt="Canyon at Nigh"/>
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Second slide label</h5>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      </div>
+    </div>
+
+    {/* <!-- Single item --> */}
+    <div class="carousel-item">
+      <img src="https://mdbcdn.b-cdn.net/img/Photos/Slides/img%20(23).webp" class="d-block w-100" alt="Cliff Above a Stormy Sea"/>
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Third slide label</h5>
+        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      </div>
+    </div>
+  </div>
+  {/* <!-- Inner --> */}
+
+  {/* <!-- Controls --> */}
+  <button class="carousel-control-prev" type="button" data-mdb-target="#carouselBasicExample" data-mdb-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-mdb-target="#carouselBasicExample" data-mdb-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+//app.js message code
+
+import React, { useEffect, useState } from "react";
+import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Home from "./home/Home";
+import MyBlog from "./blogs/MyBlog";
+import AddBlog from "./blogs/AddBlog";
+import AuthProvider from "./authContext/AuthContext";
+import Login from "./userAuthentication/LoginForm";
+import Register from "./userAuthentication/RegisterForm";
+import UpdatePostForm from "./blogs/UpdatePostFom";
+import AllBlogs from "./blogs/AllBlogs";
+import MyFavorites from "./myFavorites/MyFavorites";
+import SearchedBlogs from "./searchBlogs/SearchedBlogs";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import BlogDetail from "./blogs/BlogDetail";
+import Footer from "./footer/Footer";
+import Navbar2 from "./home/Navbar2";
+import ToastMessage from "./toastMessage/ToastMessages";
+// import PrivateRoute from "./PrivateRoute";
+
+const PrivateRoute = ({ children }) => {
+  const userId = localStorage.getItem("userId");
+ 
+
+  return userId ? children : <Navigate to="/login" />
+  
+
+  // useEffect(() => {
+  //   // const userId = localStorage.getItem("userId");
+  //   if (!userId) {
+  //     // Show a toast notification for unauthorized access
+  //     // toast.error("Authentication required. Please log in to access page.", {
+  //     //   position: "top-center",
+  //     //   autoClose: 5000,
+  //     //   hideProgressBar: false,
+  //     //   closeOnClick: true,
+  //     //   pauseOnHover: true,
+  //     //   draggable: true,
+  //     // });
+  //     return (
+  //       <>
+  //       <Navigate to="/login" />
+  //       <div class="alert alert-danger">
+  //   <strong>Danger!</strong> This alert box could indicate a dangerous or potentially negative action.
+  // </div>
+  //       </>
+  //     )
+  //   }
+  // }, []);
+
+  // if (!userId) {
+  //   // Redirect to the login page if userId is not present
+    
+  //   return <Navigate to="/login" />
+    
+  
+  // }
+
+  // return <>{element}</>; // Only wrap the specific route element, not all Routes
+};
+const AlertMessage = ({show}) =>{
+
+  toast.error("Authentication required. Please log in to access page.", {
+        position: "top-center",
+        autoClose: 5000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true,
+        draggable: true,
+      });
+
+  return (
+    <>
+    {show ? <ToastContainer/> : "" }
+    
+    </>
+  )
+}
+
+// const Authentication = () =>{
+
+//   const userId = localStorage.getItem("userId");
+// if(!userId){
+// setShowToast(true)
+// }
+  
+// }
+
+const App = () => {
+  const userId = localStorage.getItem("userId");
+  const [alert, setAlert] = useState(false)
+  
+  // Clear localStorage on app startup
+  useEffect(() => {
+    // const userId = localStorage.getItem("userId");
+    
+    if(userId){
+      setAlert(true);
+    }else{
+      setAlert(false);
+    }
+  }, [userId]);
+
+  return (
+    <div className="conatiner">
+
+<BrowserRouter>
+      
+      <AuthProvider>
+      <Navbar2/>
+      <AlertMessage show={alert}/>
+        <Routes>
+          <Route path="/" element={<AllBlogs />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Register />} />
+
+          {/* <Route path="/login" element={<PrivateRoute element={<Login />} />} /> */}
+          <Route path="/" element={<PrivateRoute element={<AllBlogs />} />} />
+          <Route
+            path="/my-blogs"
+            element={<PrivateRoute ><MyBlog /></PrivateRoute> } 
+          />
+          {/* <Route
+            path="/add-blog"
+            element={<PrivateRoute element={<AddBlog />} />}
+          />
+          <Route
+            path="/update/:postId"
+            element={<PrivateRoute element={<UpdatePostForm />} />}
+          />
+          <Route
+            path="/my-favorite/blogs"
+            element={<PrivateRoute element={<MyFavorites />} />}
+          />
+          <Route
+            path="/blog/:id"
+            element={<PrivateRoute element={<BlogDetail />} />}
+          />
+          <Route
+            path="/search-results"
+            element={<PrivateRoute element={<SearchedBlogs />} />}
+          /> */}
+          
+        </Routes>
+        <Footer/>
+        {/* <ToastContainer/> */}
+      </AuthProvider>
+      
+    </BrowserRouter>
+
+     
+      {/* <BrowserRouter>
+      
+        <AuthProvider>
+        <Navbar2/>
+          <Routes>
+            <Route path="/" element={<AllBlogs />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/signup" element={<Register />} />
+
+            <Route path="/login" element={<PrivateRoute element={<Login />} />} />
+            <Route path="/" element={<PrivateRoute element={<AllBlogs />} />} />
+            <Route
+              path="/my-blogs"
+              element={<PrivateRoute element={<MyBlog />} />}
+            />
+            <Route
+              path="/add-blog"
+              element={<PrivateRoute element={<AddBlog />} />}
+            />
+            <Route
+              path="/update/:postId"
+              element={<PrivateRoute element={<UpdatePostForm />} />}
+            />
+            <Route
+              path="/my-favorite/blogs"
+              element={<PrivateRoute element={<MyFavorites />} />}
+            />
+            <Route
+              path="/blog/:id"
+              element={<PrivateRoute element={<BlogDetail />} />}
+            />
+            <Route
+              path="/search-results"
+              element={<PrivateRoute element={<SearchedBlogs />} />}
+            />
+            
+          </Routes>
+          <Footer/>
+        
+        </AuthProvider>
+        
+      </BrowserRouter> */}
+     
+      
+      </div>
+  );
+};
+export default App;
+//kilk
+
+
+BLOG LIST WITH DATE HOURSE ago
+
+import React, { useContext, useEffect, useState } from "react";
+import { useAuth } from "../authContext/AuthContext";
+import { Link, useNavigate } from "react-router-dom";
+import BlogDetail from "./BlogDetail";
+import "./style.css";
+import { toast } from "react-toastify";
+
+const BlogList = ({
+  blogs,
+  handleLike,
+  handleFavorite,
+  deletePost,
+  showButtons = true,
+}) => {
+  const userId = localStorage.getItem("userId");
+  const itemsPerRow = 3; // Adjust the number of items per row
+  const itemsPerPage = 6; // Adjust the number of items per page
+  const [currentPage, setCurrentPage] = useState(1);
+  const [currentDate, setCurrentDate] = useState(null);
+  const [selectedBlog, setSelectedBlog] = useState(new Date());
+
+  const { getMyBlogs } = useAuth();
+
+  const navigate = useNavigate();
+
+  useEffect(()=>{
+    const timer = setInterval(() => {
+      setCurrentDate(new Date())
+    }, 60000)
+
+    return () => clearInterval(timer)
+  },[])
+
+  const isWithin24Hours = (dateString) => {
+const date = new Date(dateString);
+const diff = currentDate - date;
+return diff < 24 * 60 * 60 * 1000; //24 hrs in millisec
+  }
+  const calculateTimeDiff = (dateString) => {
+    const date = new Date(dateString);
+const diffInMs = currentDate - date;
+const diffInHours = Math.floor(diffInMs / (1000 * 60 * 60));
+return `${diffInHours} hours ago`;
+  }
+
+  const indexOfLastPost = currentPage * itemsPerPage;
+  const indexOfFirstPost = indexOfLastPost - itemsPerPage;
+  const currentPosts = blogs.slice(indexOfFirstPost, indexOfLastPost);
+
+  const totalPages = Math.ceil(blogs.length / itemsPerPage);
+
+  const paginate = (pageNumber) => {
+    setSelectedBlog(null); // Close the dropdown when paginating
+    setCurrentPage(pageNumber);
+  };
+
+  const handleUpdateNew = () => {
+    getMyBlogs();
+    // setSelectedBlog(null); // Close the dropdown after updating
+  };
+
+  const handleCardClick = (blog) => {
+    setSelectedBlog(blog);
+    navigate(`/blog/${blog.id}`);
+    if(!userId){
+      toast.error("Authentication required. Please log in to access page.", {
+        position: "top-center",
+        autoClose: 3000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true, 
+        draggable: true,
+      });
+    }
+  };
+
+ const capitalizeFirstLetter = (text) => {
+if (!text) return "";
+return text.charAt(0).toUpperCase() + text.slice(1);
+ }
+
+  const renderBlogs = () => {
+    const rows = [];
+    for (let i = 0; i < currentPosts.length; i += itemsPerRow) {
+      const row = currentPosts.slice(i, i + itemsPerRow);
+      rows.push(
+        <div className="row custom-row" key={i}>
+          {row.map((blog) => (
+            <div className={`col-md-${12 / itemsPerRow}`} key={blog.id}>
+              <div className="card rounded-0 mt-5 mx-2">
+                {/* Title and Three Dots in the same row */}
+                <div className="card-header d-flex justify-content-between align-items-center">
+                  {blog && blog.author && (
+                    <div className="author-date-container d-flex align-items-center">
+                    <div className="profile-circle rounded-circle d-flex justify-content-center align-items-center me-3">
+                      {blog.author.substring(0, 1).toUpperCase()}
+                    </div>
+                    <div className="author-date">
+                      <div className="author">{capitalizeFirstLetter(blog.author)}</div>
+                      <div className="date">
+                        {isWithin24Hours(blog.date) ? calculateTimeDiff(blog.date) : blog.date}</div>
+                    </div>
+                  </div>
+                  )}
+                  
+              
+                  <div className="dropdown">
+                    {showButtons && blog.userId === userId && (
+                      <button
+                        className="btn btn-secondary rounded-0 p-1 custom-ellipsis"
+                        type="button"
+                        id={`dropdownMenuButton-${blog.id}`}
+                        data-bs-toggle="dropdown"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                      >
+                        <i className="fas fa-ellipsis-v"></i>
+                      </button>
+                    )}
+                    <div
+                      className={`dropdown-menu ${
+                        selectedBlog === blog ? "show" : ""
+                      }`}
+                      aria-labelledby={`dropdownMenuButton-${blog.id}`}
+                    >
+                      {/* Edit Button */}
+                      <Link to={`/update/${blog.id}`}>
+                        <button
+                          onClick={handleUpdateNew}
+                          className="dropdown-item"
+                        >
+                          <i className="fas fa-edit"></i> Edit
+                        </button>
+                      </Link>
+
+                      {/* Delete Button */}
+                      <button
+                        onClick={() => {
+                          deletePost(blog.id);
+                          setSelectedBlog(null);
+                        }}
+                        className="dropdown-item"
+                      >
+                        <i className="fas fa-trash"></i> Delete
+                      </button>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Image */}
+                <div className="">
+                  <img
+                    src={blog.imageUrl}
+                    className="card-img-top img-fluid rounded-0 mw-100 mh-100 blog-image"
+                    alt="image blog"
+                  />
+                </div>
+
+                {/* Like and Favorite Buttons */}
+                <div className="row text-center custom-like-fav">
+                  <div className="col-sm-6">
+                    {blog.likes}
+                    <button
+                      className="custom-interaction-button"
+                      onClick={() => handleLike(blog.id)}
+                    >
+                      <i
+                        className={`fas fa-thumbs-up fs-5 ${
+                          blog.likesBy && blog.likesBy.includes(userId)
+                            ? "text-primary"
+                            : ""
+                        }`}
+                      ></i>
+                    </button>
+                  </div>
+
+                  <div className="col-sm-6">
+                    <button
+                      className="custom-interaction-button"
+                      onClick={() => handleFavorite(blog.id)}
+                    >
+                      <i
+                        className={`fas fa-heart fs-5 ${
+                          blog.favorites.includes(userId) ? "text-danger" : ""
+                        }`}
+                      ></i>
+                    </button>
+                  </div>
+                </div>
+
+                {/* Description */}
+                <div className="card-footer">
+                <h4 className="blog-title mt-3">{capitalizeFirstLetter(blog.title)}</h4>
+                  <p className="blog-description mt-3">{capitalizeFirstLetter(blog.description)}</p>
+                </div>
+
+                <button
+                  type="button"
+                  class="btn btn-dark rounded-0 m-3 custom-readmore "
+                  onClick={() => handleCardClick(blog)}
+                >
+                  Read More
+                </button>
+              </div>
+            </div>
+          ))}
+        </div>
+      );
+    }
+    return rows;
+  };
+
+  return (
+    <div>
+      {selectedBlog ? (
+        <BlogDetail blog={selectedBlog} />
+      ) : (
+        <>
+          {renderBlogs()}
+          <nav className="d-flex justify-content-center p-4">
+            <ul className="pagination">
+              <li
+                className={`page-item ${currentPage === 1 ? "disabled" : ""}`}
+              >
+                <button
+                  className="page-link"
+                  onClick={() => paginate(currentPage - 1)}
+                >
+                  <i className="fas fa-chevron-left"></i>
+                </button>
+              </li>
+              {Array.from({ length: totalPages }, (_, index) => index + 1).map(
+                (pageNumber) => (
+                  <li
+                    key={pageNumber}
+                    className={`page-item ${
+                      pageNumber === currentPage ? "active" : ""
+                    }`}
+                  >
+                    <button
+                      className="page-link"
+                      onClick={() => paginate(pageNumber)}
+                    >
+                      {pageNumber}
+                    </button>
+                  </li>
+                )
+              )}
+              <li
+                className={`page-item ${
+                  currentPage === totalPages ? "disabled" : ""
+                }`}
+              >
+                <button
+                  className="page-link"
+                  onClick={() => paginate(currentPage + 1)}
+                >
+                  <i className="fas fa-chevron-right"></i>
+                </button>
+              </li>
+            </ul>
+          </nav>
+        </>
+      )}
+    </div>
+  );
+};
+
+export default BlogList;

@@ -1,0 +1,12 @@
+.App {
+  overflow-x: hidden;
+}
+body {
+  font-family: fjalla one;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f8f9f9;
+  font-size: larger;
+}
+p {
+  font-size: large;
+}

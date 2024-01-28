@@ -1,0 +1,155 @@
+.custom-col {
+  width: 45%;
+}
+.card {
+  background-color: white;
+}
+.custom-col-bg {
+  background-color: white;
+}
+.custom-col-bg:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+.custom-row {
+  background-color: #f0f3f7;
+  justify-content: center;
+  /* border: 1px solid #dee2e6; */
+}
+
+.custom-like-fav {
+  /* border: 1px solid black; */
+  padding: 5px;
+  margin: 0px;
+  background: white;
+}
+
+.custom-interaction-button {
+  border: none;
+  background: white;
+}
+.custom-interaction-button:hover {
+  border: none;
+  /* background: rgb(90, 91, 92); */
+  color: rgb(152, 108, 67);
+}
+.liked {
+  color: blue;
+}
+.custom-fav {
+  display: flex;
+  align-items: end;
+  justify-content: flex-end;
+}
+
+/* blog list component */
+.blog-description {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+/* new */
+.card-header:hover {
+  color: rgb(152, 108, 67);
+}
+.blog-title {
+  color: #491414;
+}
+.blog-title:hover {
+  color: rgb(152, 108, 67);
+}
+.custom-readmore:hover {
+  background-color: rgb(152, 108, 67);
+  border: none;
+}
+.card {
+  border-color: lavender;
+  border: none;
+}
+/* .blog-image:hover{
+    transition: box-shadow 0.1s ease-in-out;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+} */
+/* .blog-image{
+
+    transition: transform 0.1s ease;
+}
+.blog-image:hover{
+    transform: scale(1.05);
+} */
+
+.active > .page-link,
+.page-link.active {
+  background-color: rgb(152, 108, 67);
+  border-color: rgb(152, 108, 67);
+}
+.active > .page-link,
+.page-link.active:focus {
+  border-color: none;
+  box-shadow: none;
+}
+.page-link {
+  color: black;
+}
+.page-link:hover {
+  color: white;
+}
+.custom-bg {
+  background-color: #eef8fe;
+  padding-top: 5rem;
+}
+.addblog {
+  background-color: #f5f5f3;
+}
+.editblog {
+  background-color: #f5f5f3;
+}
+.custom-ellipsis {
+  border: none;
+  background-color: white;
+  color: black;
+  font-size: larger;
+}
+.custom-ellipsis:hover {
+  background-color: white;
+  color: rgb(152, 108, 67);
+  border: none;
+}
+.custom-ellipsis:focus {
+  background-color: white;
+  color: rgb(152, 108, 67);
+  border: none;
+}
+.custom-blogcard {
+  background-color: white;
+}
+.custom-blogdetail {
+  background-color: white;
+}
+
+.profile-circle {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  color: black;
+  font-size: 2rem;
+  font-weight: bold;
+  border: 1px solid black;
+}
+.author {
+  font-size: 1.75rem;
+}
+.date {
+  font-size: 0.75rem;
+}
+.blog-description {
+  color: #808b96;
+}
+.blog-image {
+  height: 10rem;
+}
+
+/* .custom-blogdetail-style{
+    --bs-gutter-x: 2rem;
+} */

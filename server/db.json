@@ -1,0 +1,83 @@
+{
+  "user": [
+    {
+      "id": "b346",
+      "firstName": "rakesh",
+      "lastName": "katkuri",
+      "email": "rakesh@gmail.com",
+      "password": "rk123"
+    },
+    {
+      "id": "442c",
+      "firstName": "sharath",
+      "lastName": "karant",
+      "email": "sharath@gmail.com",
+      "password": "sk123"
+    }
+  ],
+  "posts": [
+    {
+      "id": "2ee9",
+      "likes": 0,
+      "likesBy": [],
+      "favorites": [],
+      "date": "2024-01-28",
+      "imageUrl": "https://w0.peakpx.com/wallpaper/32/729/HD-wallpaper-boat-oar-coast-lake-nature.jpg",
+      "title": "nature is not a place to visit. It is home.",
+      "description": "In a very real sense, mountains and valleys, the seas and the skies, the sun and the earth, the trees and the flowers constitute our home,\nour natural habitat.\n\nGrowing up in the modern developed world we can easily come to believe that towns and cities – the urban and artificial environment –\nis where we naturally belong. But our brains and bodies, which evolved over thousands of years, were designed by and designed for an\nenvironment very different to the one we live in now.\n\nThroughout our evolutionary history we lived in very close connection to the land, \nwith a very close kinship with other creatures. \nOur physiological system evolved to survive in wild, natural environments and developed a love and kinship \nfor these places that lives on in our DNA.\n\nThis connection with the land combined with the kinship we would have felt with other \nliving things that shared the land as their home has hardwired in us a strong sense of the natural world \nas ‘home’, and the importance of connection with all of life as being essential to our well-being.",
+      "userId": "b346",
+      "author": "rakesh katkuri"
+    },
+    {
+      "id": "499c",
+      "imageUrl": "https://natureinmind.ie/wp-content/uploads/2016/12/3-600x400.jpg",
+      "title": "the sun and the earth, the trees and the flowers",
+      "description": "Stimulate your mind as you test your typing speed your mind as you test your typing speed with this standard English paragraph typing test. Watch your typing speed and accuracy increase as you learn about a variety of new topics! Over 40 typing test selections available.\n\nIf you don't your mind as you test your typing speed like a test prompt, you can get a different (random) prompt with the \"change test\" button - or your mind as you test your typing speed select a specific paragraph to type from the list below. To find out how fast you type, just start typing in the blank textbox on the right of the test prompt. You will see your progress, including errors on the left side as you type. In order to complete the test and save your score, you need to get 100% accuracy. You can fix errors as you go, or correct them at the end with the help of the spell checker.\n\n",
+      "likesBy": [],
+      "userId": "b346",
+      "likes": 0,
+      "favorites": [
+        "b346",
+        "442c"
+      ],
+      "author": "rakesh katkuri",
+      "date": "2024-01-28"
+    },
+    {
+      "id": "8a92",
+      "likes": 0,
+      "likesBy": [],
+      "favorites": [],
+      "date": "2024-01-28",
+      "imageUrl": "https://w0.peakpx.com/wallpaper/32/729/HD-wallpaper-boat-oar-coast-lake-nature.jpg",
+      "title": "the seas and the skies, the sun and the earth, the trees",
+      "description": "To find out how fast you type, just start typing in the blank textbox on the right of the test prompt. You will see your progress, including errors on the left side as you type.\n\nYou can fix errors as you go, or correct them at the end with the help of the spell checker. If you need to restart the test, delete the text in the text box. Interactive feedback shows you your current wpm and accuracy.\n\nIn order to complete the test and share your results, you need to get 100% accuracy. You can review your progress for this session with the feedback chart. Just hover over a dot to see what your average speed and accruacy are for that key.",
+      "userId": "b346",
+      "author": "rakesh katkuri"
+    },
+    {
+      "id": "8af7",
+      "likes": 0,
+      "likesBy": [],
+      "favorites": [],
+      "date": "2024-01-28",
+      "imageUrl": "https://media.istockphoto.com/id/1382384282/photo/bangalore-or-bengaluru.jpg?s=612x612&w=0&k=20&c=6pxwL3JxNV2B_NZSLMZLhrSLqAbyCPlGuSZYKImpjKQ=",
+      "title": "Bangalore or Bengaluru city Aerial view",
+      "description": "It was also referred to as \"Kalyānapura\" or \"Kalyānapuri\" (\"Auspicious City\") and \"Dēvarāyanagara\" during the Vijayanagara times.[22]\n\nAn apocryphal story states that the twelfth-century Hoysala king Veera Ballala II, while on a hunting expedition, lost his way in the forest. Tired and hungry, he came across a poor old woman who served him boiled beans. The grateful king named the place \"Benda-Kaal-uru\" (literally, \"town of boiled beans\"), which eventually evolved into \"Bengalūru\".[20][23][24] Suryanath Kamath has put forward an explanation of a possible floral origin of the name as derived from benga, the Kannada term for Pterocarpus marsupium (also known as the Indian Kino Tree), a species of dry and moist deciduous trees that grows abundantly in the region.[25]",
+      "userId": "b346",
+      "author": "rakesh katkuri"
+    },
+    {
+      "id": "6dc4",
+      "likes": 0,
+      "likesBy": [],
+      "favorites": [],
+      "date": "2024-01-28",
+      "imageUrl": "https://media.istockphoto.com/id/1382384282/photo/bangalore-or-bengaluru.jpg?s=612x612&w=0&k=20&c=6pxwL3JxNV2B_NZSLMZLhrSLqAbyCPlGuSZYKImpjKQ=",
+      "title": "An apocryphal story states that the twelfth-century Hoysala king",
+      "description": "continued to expand with the establishment of private companies such as MICO (Motor Industries Company), which set up its manufacturing plant in the city.[67][68]\n\nBy the 1980s, urbanisation had spilled over the current boundaries, and in 1986, the Bangalore Metropolitan Region Development Authority, was established to co-ordinate the development of the entire region as a single unit.[66] On 8 February 1981, a major fire broke out at Venus Circus in Bangalore, where more than 92 people died",
+      "userId": "442c",
+      "author": "sharath karant"
+    }
+  ]
+}

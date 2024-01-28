@@ -1,0 +1,57 @@
+.custom-form {
+  background-color: white;
+  padding-top: 6rem;
+}
+.custom-reg-form {
+  background-color: white;
+  margin-top: 6rem;
+  margin-bottom: 0.5rem;
+}
+
+.form_container {
+  width: 35%;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.3);
+  /* border: 1px solid black; */
+}
+.btn-block {
+  background-color: rgb(152, 108, 67);
+  border: none;
+  color: white;
+  font-weight: 600;
+}
+.btn-block:hover {
+  color: white;
+  background-color: rgb(152, 108, 67);
+}
+/* button:active{
+    background-color: #330377; 
+}
+button:focus{
+    outline: none;
+    background-color: initial;
+
+} */
+.custome-btn-color {
+  color: rgb(152, 108, 67);
+  font-weight: 600;
+}
+.custom-sign {
+  text-decoration: none;
+  color: rgb(152, 108, 67);
+}
+.form-control:focus {
+  border-color: black;
+  box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0);
+}
+
+@media screen and (max-width: 1000px) {
+  .form_container {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .form_container {
+    width: 65%;
+  }
+}
